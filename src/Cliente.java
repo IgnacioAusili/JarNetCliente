@@ -61,7 +61,7 @@ public class Cliente extends Thread {
     /**
      * Inicia un nuevo hilo, inicializa los sockets y paquetes que va a usar el
      * programa, y un objeto de tipo "Timer" para verificar la conexion en un
-     * periodo.a
+     * periodo.
      */
     @Override
     public void run() {
